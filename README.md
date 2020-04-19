@@ -1,8 +1,8 @@
 # WMirror
 
-一个可以使网页浏览器控制Android手机应用
-
 [![](https://img.shields.io/badge/WMirror-v0.2.14-green.svg)](https://champyin.com)
+
+轻松使用网页浏览器控制Android手机
 
 
 ## ADB免Root版
