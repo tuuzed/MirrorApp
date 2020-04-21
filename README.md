@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/WMirror-v0.2.19-green.svg)](https://github.com/tuuzed/WMirror)
 
-轻松使用网页浏览器控制Android手机
+轻松使用Chorme浏览器控制您的Android手机
 
 
 ## ADB免Root版
