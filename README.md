@@ -16,13 +16,14 @@
 
 ## 已Root机型
 
-[下载 wmirror.android-0.2.26-beta-universal.apk](https://github.com/tuuzed/WMirror/releases/download/v0.2.26/wmirror.android-0.2.26-beta-universal.apk)
+
+[下载 wmirror.android-0.2.26-beta-armeabi-v7a.apk](https://github.com/tuuzed/WMirror/releases/download/v0.2.26/wmirror.android-0.2.26-beta-armeabi-v7a.apk)
 
 - 支持全功能
 
 ## Android5.0以上系统机型
 
-[下载 wmirror.android-0.2.26-beta-universal.apk](https://github.com/tuuzed/WMirror/releases/download/v0.2.26/wmirror.android-0.2.26-beta-universal.apk)
+[下载 wmirror.android-0.2.26-beta-armeabi-v7a.apk](https://github.com/tuuzed/WMirror/releases/download/v0.2.26/wmirror.android-0.2.26-beta-armeabi-v7a.apk)
 
 - 支持远程网页浏览器查看屏幕内容
 
