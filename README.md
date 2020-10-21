@@ -8,7 +8,7 @@
 ## ADB免Root版
 
 
-[下载 wmirror-0.4.0-beta-windows-x64.zip](https://github.com/tuuzed/WMirror/releases/download/v0.4.0/wmirror-0.4.0-beta-windows-x64.zip)
+[下载 wmirror-0.4.0-beta-windows-x64.zip](https://github.com/tuuzed/WMirror/releases/download/v0.4.0-beta/wmirror-0.4.0-beta-windows-x64.zip)
 
 - 需要开启USB调试模式
 
