@@ -37,11 +37,11 @@ adb shell "export CLASSPATH=/data/local/tmp/classes.jar && app_process /data/loc
 
 ```sh
 
-adb.exe forward tcp:6688 tcp:6688
+adb forward tcp:6688 tcp:6688
 
-adb.exe push ./wmirror.jar /data/local/tmp/classes.jar
+adb push ./wmirror.jar /data/local/tmp/classes.jar
 
-adb.exe shell "export CLASSPATH=/data/local/tmp/classes.jar && app_process /data/local/tmp wmirror.ProcessMain -p 6688 -s 0.5 -q 100"
+adb shell "export CLASSPATH=/data/local/tmp/classes.jar && app_process /data/local/tmp wmirror.ProcessMain -p 6688 -s 0.5 -q 100"
 
 ```
 
