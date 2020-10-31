@@ -1,6 +1,6 @@
 # WMirror
 
-[![](https://img.shields.io/badge/WMirror-v0.5.0-green.svg)](https://github.com/tuuzed/WMirror)
+[![](https://img.shields.io/badge/WMirror-v0.5.4-green.svg)](https://github.com/tuuzed/WMirror)
 
 轻松使用Chorme浏览器或Android手机控制您的Android手机
 
