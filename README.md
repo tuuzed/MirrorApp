@@ -1,6 +1,6 @@
 # WMirror
 
-[![](https://img.shields.io/badge/WMirror-v0.5.15--beta-green.svg?style=for-the-badge)](https://github.com/tuuzed/WMirror)
+[![](https://img.shields.io/badge/WMirror-v0.5.15--beta-green.svg?style=for-the-badge)](https://github.com/tuuzed/WMirror/releases/latest)
 
 轻松使用Chorme浏览器或Android手机远程协助另一个Android手机
 
