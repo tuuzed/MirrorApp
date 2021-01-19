@@ -77,13 +77,13 @@ adb shell "export CLASSPATH=/data/local/tmp/classes.jar && app_process /data/loc
 ## 已Root机型
 
 
-[下载 wmirror.android-0.7.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.6.3-beta/wmirror.android-0.7.0-beta-armeabi-v7a.apk)
+[下载 mirrorapp.android-0.7.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.7.0-beta/wmirrorapp.android-0.7.0-beta-armeabi-v7a.apk)
 
 - 支持全功能
 
 ## Android5.0以上系统机型
 
-[下载 wmirror.android-0.7.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.6.3-beta/wmirror.android-0.7.0-beta-armeabi-v7a.apk)
+[下载 wmirrorapp.android-0.7.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.7.0-beta/wmirrorapp.android-0.7.0-beta-armeabi-v7a.apk)
 
 - 支持远程网页浏览器查看屏幕内容
 
