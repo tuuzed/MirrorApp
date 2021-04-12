@@ -89,3 +89,6 @@ adb shell "chmod 777 /data/local/tmp && export CLASSPATH=/data/local/tmp/classes
 
 - Android7.0及以上系统开启无障碍服务可远程控制
 
+- 开启IME可支持键盘输入
+ 
+
