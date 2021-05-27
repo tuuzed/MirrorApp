@@ -5,7 +5,19 @@
 轻松投屏和远程协助Android手机
 
 
-## ADB免Root版
+## App版本
+
+
+[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0.315.-beta-armeabi-v7a.apk)
+
+- 免Root浏览屏幕镜像
+
+- Android7.0及以上系统开启MirrorApp屏幕控制服务或已Root设备远程控制屏幕
+
+- 开启MirrorApp输入法后可远程键盘输入
+
+
+## ADB免Root版本
 
 
 [下载 libplugin.jar](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/libplugin.jar)
@@ -70,25 +82,3 @@ adb push ./libplugin.jar /data/local/tmp/classes.jar
 adb shell "chmod 777 /data/local/tmp && export CLASSPATH=/data/local/tmp/classes.jar && app_process /data/local/tmp mirrorapp.ProcessMain -p 6688 -r 480 -q 100 -f JPEG  -auth username:password&"
 
 ```
-
-
-
-
-## 已Root机型
-
-
-[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0.315.-beta-armeabi-v7a.apk)
-
-- 支持全功能
-
-## Android5.0以上系统机型
-
-[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0.315.-beta-armeabi-v7a.apk)
-
-- 支持远程网页浏览器查看屏幕内容
-
-- Android7.0及以上系统开启无障碍服务可远程控制
-
-- 开启IME可支持键盘输入
- 
-
