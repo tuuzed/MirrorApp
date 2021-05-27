@@ -77,13 +77,13 @@ adb shell "chmod 777 /data/local/tmp && export CLASSPATH=/data/local/tmp/classes
 ## 已Root机型
 
 
-[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0-beta-armeabi-v7a.apk)
+[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0.315.-beta-armeabi-v7a.apk)
 
 - 支持全功能
 
 ## Android5.0以上系统机型
 
-[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0-beta-armeabi-v7a.apk)
+[下载 mirrorapp.android-0.10.0-beta-armeabi-v7a.apk](https://github.com/tuuzed/MirrorApp/releases/download/v0.10.0-beta/mirrorapp.android-0.10.0.315.-beta-armeabi-v7a.apk)
 
 - 支持远程网页浏览器查看屏幕内容
 
